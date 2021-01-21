@@ -25,7 +25,21 @@ async function main() {
     if (row[1] && row[2]) {
       row[1] = parseFloat(row[1]);
       row[2] = parseFloat(row[2]);
-      lines.push(row);
+      // lines.push(
+      //   [
+      //     row[0],
+      //     [ row[1], row[2], row[3] ],
+      //   ]
+      // );
+
+      lines.push(
+        [
+          row[0],
+          row[2],
+          row[1],
+          row[3],
+        ]
+      );
     }
   }
 
