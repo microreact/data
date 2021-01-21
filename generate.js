@@ -43,7 +43,11 @@ async function main() {
     }
   }
 
-  return JSON.stringify(lines);
+  return JSON.stringify(
+    lines,
+    null,
+    2,
+  );
 }
 
 main()
