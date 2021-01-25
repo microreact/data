@@ -528,6 +528,12 @@
     "Isle of Anglesey"
   ],
   [
+    "GB-AND",
+    -5.64568,
+    54.564091,
+    "Ards and North Down"
+  ],
+  [
     "GB-ANN",
     -6.1776,
     54.693859,
@@ -540,10 +546,22 @@
     "Angus"
   ],
   [
+    "GB-BAS",
+    -2.48654,
+    51.356041,
+    "Bath and North East Somerset"
+  ],
+  [
     "GB-BBD",
     -2.4636,
     53.700802,
     "Blackburn with Darwen"
+  ],
+  [
+    "GB-BCP",
+    -1.84807,
+    50.74609,
+    "Bournemouth, Christchurch and Poole"
   ],
   [
     "GB-BDF",
@@ -556,6 +574,24 @@
     0.129479,
     51.545551,
     "Barking and Dagenham"
+  ],
+  [
+    "GB-BEN",
+    -0.27568,
+    51.564411,
+    "Brent"
+  ],
+  [
+    "GB-BEX",
+    0.146227,
+    51.458229,
+    "Bexley"
+  ],
+  [
+    "GB-BFS",
+    -5.92535,
+    54.59853,
+    "Belfast City"
   ],
   [
     "GB-BGE",
@@ -582,10 +618,22 @@
     "Buckinghamshire"
   ],
   [
+    "GB-BNE",
+    -0.21821,
+    51.61108,
+    "Barnet"
+  ],
+  [
     "GB-BNH",
     -0.15079,
     50.8465,
     "Brighton and Hove"
+  ],
+  [
+    "GB-BNS",
+    -1.54925,
+    53.525768,
+    "Barnsley"
   ],
   [
     "GB-BOL",
@@ -598,6 +646,24 @@
     -3.02199,
     53.82164,
     "Blackpool"
+  ],
+  [
+    "GB-BRC",
+    -0.73363,
+    51.411301,
+    "Bracknell Forest"
+  ],
+  [
+    "GB-BRD",
+    -1.87389,
+    53.843819,
+    "Bradford"
+  ],
+  [
+    "GB-BRY",
+    0.039246,
+    51.372669,
+    "Bromley"
   ],
   [
     "GB-BST",
@@ -624,6 +690,18 @@
     "Caerphilly"
   ],
   [
+    "GB-CBF",
+    -0.47754,
+    51.999031,
+    "Central Bedfordshire"
+  ],
+  [
+    "GB-CCG",
+    -6.5996,
+    55.039619,
+    "Causeway Coast and Glens"
+  ],
+  [
     "GB-CGN",
     -3.94993,
     52.297951,
@@ -642,6 +720,12 @@
     "Cheshire West and Chester"
   ],
   [
+    "GB-CLD",
+    -1.96182,
+    53.720482,
+    "Calderdale"
+  ],
+  [
     "GB-CLK",
     -3.75344,
     56.14724,
@@ -652,6 +736,12 @@
     -2.90213,
     54.636379,
     "Cumbria"
+  ],
+  [
+    "GB-CMD",
+    -0.16289,
+    51.54306,
+    "Camden"
   ],
   [
     "GB-CMN",
@@ -666,16 +756,34 @@
     "Cornwall"
   ],
   [
+    "GB-COV",
+    -1.51908,
+    52.41423,
+    "Coventry"
+  ],
+  [
     "GB-CRF",
     -3.22208,
     51.502541,
     "Cardiff"
   ],
   [
+    "GB-CRY",
+    -0.07761,
+    51.365978,
+    "Croydon"
+  ],
+  [
     "GB-CWY",
     -3.74646,
     53.147388,
     "Conwy"
+  ],
+  [
+    "GB-DAL",
+    -1.56835,
+    54.535339,
+    "Darlington"
   ],
   [
     "GB-DBY",
@@ -688,6 +796,12 @@
     -3.34761,
     53.088329,
     "Denbighshire"
+  ],
+  [
+    "GB-DER",
+    -1.47189,
+    52.914639,
+    "Derby"
   ],
   [
     "GB-DEV",
@@ -720,6 +834,24 @@
     "Dorset"
   ],
   [
+    "GB-DRS",
+    -7.42064,
+    54.80904,
+    "Derry and Strabane"
+  ],
+  [
+    "GB-DUD",
+    -2.10171,
+    52.495129,
+    "Dudley"
+  ],
+  [
+    "GB-DUR",
+    -1.8405,
+    54.685131,
+    "Durham, County"
+  ],
+  [
     "GB-EAL",
     -0.31407,
     51.524429,
@@ -732,6 +864,12 @@
     "East Ayrshire"
   ],
   [
+    "GB-EDH",
+    -3.27826,
+    55.91119,
+    "Edinburgh, City of"
+  ],
+  [
     "GB-EDU",
     -4.22417,
     55.95829,
@@ -742,6 +880,18 @@
     -2.72435,
     55.94207,
     "East Lothian"
+  ],
+  [
+    "GB-ELS",
+    -6.65722,
+    58.199379,
+    "Eilean Siar"
+  ],
+  [
+    "GB-ENF",
+    -0.08147,
+    51.64888,
+    "Enfield"
   ],
   [
     "GB-ENG",
@@ -816,6 +966,12 @@
     "Gloucestershire"
   ],
   [
+    "GB-GRE",
+    0.050107,
+    51.463928,
+    "Greenwich"
+  ],
+  [
     "GB-GWN",
     -3.77715,
     52.89883,
@@ -840,6 +996,18 @@
     "Havering"
   ],
   [
+    "GB-HCK",
+    -0.06045,
+    51.55492,
+    "Hackney"
+  ],
+  [
+    "GB-HEF",
+    -2.73931,
+    52.081539,
+    "Herefordshire"
+  ],
+  [
     "GB-HIL",
     -0.44182,
     51.536629,
@@ -852,10 +1020,40 @@
     "Highland"
   ],
   [
+    "GB-HMF",
+    -0.21735,
+    51.487331,
+    "Hammersmith and Fulham"
+  ],
+  [
+    "GB-HNS",
+    -0.37847,
+    51.462429,
+    "Hounslow"
+  ],
+  [
+    "GB-HPL",
+    -1.27018,
+    54.67614,
+    "Hartlepool"
+  ],
+  [
     "GB-HRT",
     -0.27699,
     51.808788,
     "Hertfordshire"
+  ],
+  [
+    "GB-HRW",
+    -0.33603,
+    51.594669,
+    "Harrow"
+  ],
+  [
+    "GB-HRY",
+    -0.10667,
+    51.587711,
+    "Haringey"
   ],
   [
     "GB-IOS",
@@ -870,10 +1068,22 @@
     "Isle of Wight"
   ],
   [
+    "GB-ISL",
+    -0.10992,
+    51.545479,
+    "Islington"
+  ],
+  [
     "GB-IVC",
     -4.75387,
     55.900299,
     "Inverclyde"
+  ],
+  [
+    "GB-KEC",
+    -0.18976,
+    51.496441,
+    "Kensington and Chelsea"
   ],
   [
     "GB-KEN",
@@ -882,10 +1092,22 @@
     "Kent"
   ],
   [
+    "GB-KHL",
+    -0.30382,
+    53.769199,
+    "Kingston upon Hull"
+  ],
+  [
     "GB-KIR",
     -1.78085,
     53.64233,
     "Kirklees"
+  ],
+  [
+    "GB-KTT",
+    -0.28367,
+    51.39296,
+    "Kingston upon Thames"
   ],
   [
     "GB-KWL",
@@ -898,6 +1120,18 @@
     -2.46091,
     53.86216,
     "Lancashire"
+  ],
+  [
+    "GB-LBC",
+    -6.03545,
+    54.49752,
+    "Lisburn and Castlereagh"
+  ],
+  [
+    "GB-LBH",
+    -0.11385,
+    51.464451,
+    "Lambeth"
   ],
   [
     "GB-LCE",
@@ -918,10 +1152,34 @@
     "Leicestershire"
   ],
   [
+    "GB-LEW",
+    -0.01733,
+    51.44231,
+    "Lewisham"
+  ],
+  [
     "GB-LIN",
     -0.23884,
     53.111019,
     "Lincolnshire"
+  ],
+  [
+    "GB-LIV",
+    -2.91364,
+    53.408298,
+    "Liverpool"
+  ],
+  [
+    "GB-LND",
+    -0.09353,
+    51.515652,
+    "London, City of"
+  ],
+  [
+    "GB-LUT",
+    -0.42319,
+    51.891022,
+    "Luton"
   ],
   [
     "GB-MAN",
@@ -936,6 +1194,24 @@
     "Middlesbrough"
   ],
   [
+    "GB-MDW",
+    0.563174,
+    51.44772,
+    "Medway"
+  ],
+  [
+    "GB-MEA",
+    -6.14645,
+    54.86462,
+    "Mid and East Antrim"
+  ],
+  [
+    "GB-MIK",
+    -0.7407,
+    52.072411,
+    "Milton Keynes"
+  ],
+  [
     "GB-MLN",
     -3.11738,
     55.82111,
@@ -946,6 +1222,12 @@
     -2.9028,
     51.778271,
     "Monmouthshire"
+  ],
+  [
+    "GB-MRT",
+    -0.18867,
+    51.410568,
+    "Merton"
   ],
   [
     "GB-MRY",
@@ -960,6 +1242,12 @@
     "Merthyr Tydfil"
   ],
   [
+    "GB-MUL",
+    -6.8889,
+    54.552731,
+    "Mid-Ulster"
+  ],
+  [
     "GB-NAY",
     -4.7246,
     55.72789,
@@ -970,6 +1258,12 @@
     -2.07523,
     55.300369,
     "Northumberland"
+  ],
+  [
+    "GB-NEL",
+    -0.13911,
+    53.52327,
+    "North East Lincolnshire"
   ],
   [
     "GB-NET",
@@ -1002,10 +1296,22 @@
     "North Lanarkshire"
   ],
   [
+    "GB-NLN",
+    -0.52407,
+    53.58643,
+    "North Lincolnshire"
+  ],
+  [
     "GB-NMD",
     -6.08891,
     54.149529,
     "Newry, Mourne and Down"
+  ],
+  [
+    "GB-NSM",
+    -2.75439,
+    51.397072,
+    "North Somerset"
   ],
   [
     "GB-NTH",
@@ -1024,6 +1330,18 @@
     -1.00656,
     53.128502,
     "Nottinghamshire"
+  ],
+  [
+    "GB-NTY",
+    -1.50923,
+    55.028961,
+    "North Tyneside"
+  ],
+  [
+    "GB-NWM",
+    0.027289,
+    51.531471,
+    "Newham"
   ],
   [
     "GB-NWP",
@@ -1074,10 +1392,28 @@
     "Plymouth"
   ],
   [
+    "GB-POR",
+    -1.07006,
+    50.807999,
+    "Portsmouth"
+  ],
+  [
     "GB-POW",
     -3.43531,
     52.34864,
     "Powys"
+  ],
+  [
+    "GB-PTE",
+    -0.26874,
+    52.59214,
+    "Peterborough"
+  ],
+  [
+    "GB-RCC",
+    -1.00608,
+    54.56752,
+    "Redcar and Cleveland"
   ],
   [
     "GB-RCH",
@@ -1086,10 +1422,40 @@
     "Rochdale"
   ],
   [
+    "GB-RCT",
+    -3.41359,
+    51.621849,
+    "Rhondda Cynon Taff"
+  ],
+  [
+    "GB-RDB",
+    0.070071,
+    51.585892,
+    "Redbridge"
+  ],
+  [
+    "GB-RDG",
+    -0.99071,
+    51.453018,
+    "Reading"
+  ],
+  [
     "GB-RFW",
     -4.56834,
     55.848621,
     "Renfrewshire"
+  ],
+  [
+    "GB-RIC",
+    -0.28914,
+    51.44035,
+    "Richmond upon Thames"
+  ],
+  [
+    "GB-ROT",
+    -1.28651,
+    53.395531,
+    "Rotherham"
   ],
   [
     "GB-RUT",
@@ -1134,6 +1500,12 @@
     "Sefton"
   ],
   [
+    "GB-SGC",
+    -2.46922,
+    51.54673,
+    "South Gloucestershire"
+  ],
+  [
     "GB-SHF",
     -1.54254,
     53.40358,
@@ -1164,10 +1536,22 @@
     "Salford"
   ],
   [
+    "GB-SLG",
+    -0.57617,
+    51.503502,
+    "Slough"
+  ],
+  [
     "GB-SLK",
     -3.83272,
     55.60453,
     "South Lanarkshire"
+  ],
+  [
+    "GB-SND",
+    -1.43344,
+    54.857189,
+    "Sunderland"
   ],
   [
     "GB-SOL",
@@ -1182,10 +1566,22 @@
     "Somerset"
   ],
   [
+    "GB-SOS",
+    0.706923,
+    51.549171,
+    "Southend-on-Sea"
+  ],
+  [
     "GB-SRY",
     -0.33911,
     51.268028,
     "Surrey"
+  ],
+  [
+    "GB-STE",
+    -2.15888,
+    53.017071,
+    "Stoke-on-Trent"
   ],
   [
     "GB-STG",
@@ -1194,16 +1590,76 @@
     "Stirling"
   ],
   [
+    "GB-STH",
+    -1.39952,
+    50.9212,
+    "Southampton"
+  ],
+  [
+    "GB-STN",
+    -0.17227,
+    51.357559,
+    "Sutton"
+  ],
+  [
     "GB-STS",
     -2.02756,
     52.909302,
     "Staffordshire"
   ],
   [
+    "GB-STT",
+    -1.30664,
+    54.556911,
+    "Stockton-on-Tees"
+  ],
+  [
+    "GB-STY",
+    -1.44679,
+    54.969879,
+    "South Tyneside"
+  ],
+  [
     "GB-SWA",
     -3.96723,
     51.658058,
     "Swansea"
+  ],
+  [
+    "GB-SWD",
+    -1.73367,
+    51.577629,
+    "Swindon"
+  ],
+  [
+    "GB-SWK",
+    -0.07306,
+    51.465919,
+    "Southwark"
+  ],
+  [
+    "GB-TAM",
+    -2.077,
+    53.478668,
+    "Tameside"
+  ],
+  [
+    "GB-TFW",
+    -2.48941,
+    52.714169,
+    "Telford and Wrekin"
+  ],
+  [
+    "GB-THR",
+    0.334861,
+    51.509979,
+    "Thurrock"
+  ],
+  [
+    "GB-TOB",
+    -3.55523,
+    50.470921,
+    "Torbay"
   ],
   [
     "GB-TOF",
@@ -1216,6 +1672,12 @@
     -2.36572,
     53.41671,
     "Trafford"
+  ],
+  [
+    "GB-TWH",
+    -0.03643,
+    51.515541,
+    "Tower Hamlets"
   ],
   [
     "GB-VGL",
@@ -1260,6 +1722,12 @@
     "Wiltshire"
   ],
   [
+    "GB-WKF",
+    -1.42092,
+    53.659222,
+    "Wakefield"
+  ],
+  [
     "GB-WLL",
     -1.97044,
     52.60503,
@@ -1276,6 +1744,30 @@
     -3.63785,
     52.3496,
     "Wales"
+  ],
+  [
+    "GB-WLV",
+    -2.12746,
+    52.597881,
+    "Wolverhampton"
+  ],
+  [
+    "GB-WND",
+    -0.20023,
+    51.4524,
+    "Wandsworth"
+  ],
+  [
+    "GB-WNM",
+    -0.67541,
+    51.480339,
+    "Windsor and Maidenhead"
+  ],
+  [
+    "GB-WOK",
+    -0.89935,
+    51.422958,
+    "Wokingham"
   ],
   [
     "GB-WOR",
@@ -1312,6 +1804,12 @@
     -0.45933,
     50.95134,
     "West Sussex"
+  ],
+  [
+    "GB-YOR",
+    -1.07375,
+    53.96582,
+    "York"
   ],
   [
     "GB-ZET",
