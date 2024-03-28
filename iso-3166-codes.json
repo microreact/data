@@ -498,6 +498,30 @@
     "United Kingdom"
   ],
   [
+    "GB-ENG",
+    -1.26491,
+    52.53102,
+    "England, UK"
+  ],
+  [
+    "GB-NIR",
+    -6.95916,
+    54.58598,
+    "Northern Ireland, UK"
+  ],
+  [
+    "GB-SCT",
+    -4.11405,
+    56.78611,
+    "Scotland, UK"
+  ],
+  [
+    "GB-WLS",
+    -3.73893,
+    52.29281,
+    "Wales, UK"
+  ],
+  [
     "GB-ABC",
     -6.43455,
     54.3867,
